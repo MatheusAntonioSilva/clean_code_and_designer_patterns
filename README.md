@@ -19,6 +19,50 @@
 >> D - Dependency Inversion Principle (Princípio da Inversão de Dependências)
 
 - Beleza agora vamos falar de código:
+  * Single Responsibility Principle
+    * Violação do príncipio:
+      - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/solid/simple_responsibility/correct.rb
+
+    * Maneira correta:
+      - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/solid/simple_responsibility/correct.rb
+
+    - Explicações dentro do código para facilitar compreensão.
+
+  * Open/Closed Principle
+    * Violação do príncipio:
+      - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/solid/open_closed/violation.rb
+
+    * Maneira correta:
+      - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/solid/open_closed/correct.rb
+
+    - Explicações dentro do código para facilitar compreensão.
+
+  * Liskov Substitution Principle
+    * Violação do príncipio:
+      - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/solid/liskov/violation.rb
+
+    * Maneira correta:
+      - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/solid/liskov/correct.rb
+
+    - Explicações dentro do código para facilitar compreensão.
+
+  * Interface Segregation Principle
+    * Violação do príncipio:
+      - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/solid/interface_seggregation/violation.rb
+
+    * Maneira correta:
+      - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/solid/interface_seggregation/correct.rb
+
+    - Explicações dentro do código para facilitar compreensão.
+
+  * Dependency Inversion Principle
+    * Violação do príncipio:
+      - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/solid/dependency_inversion/violation.rb
+
+    * Maneira correta:
+      - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/solid/dependency_inversion/correct.rb
+
+    - Explicações dentro do código para facilitar compreensão.
 
 ## Padrões de Projeto
 
@@ -28,4 +72,12 @@
 
 - Agora vamos de código:
 
+  - Behavioral Patterns:
+    - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/patterns/behavioral/template_method.rb
+
+  - Creational Patterns:
+    - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/patterns/creational/factory_method.rb
+
+  - Structural Patterns:
+    - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/patterns/structural/decorator.rb
 
