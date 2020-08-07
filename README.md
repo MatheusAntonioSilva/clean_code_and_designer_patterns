@@ -24,7 +24,7 @@
 
 - Vamos agora ver a parte de **Design Patterns** no português padrões de projetos. Padrões esses criados para auxilar desenvolvedores com formas de resolver problemas em desenvolvimento de forma semelhante.
 
-- Infelizmente não dá pra trazer todos os padrões porém trouxe três padrões de criação e um padrão de estrutural. (Infelizmente não deu tempo de mais rs).
+- Infelizmente não dá pra trazer todos os padrões porém trouxe um padrão de criação, um padrão de estrutural e um comportamental.
 
 - Agora vamos de código:
 
