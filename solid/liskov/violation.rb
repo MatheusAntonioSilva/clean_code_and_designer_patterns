@@ -1,5 +1,3 @@
-# Violation of the Liskov Substitution Principle in Ruby
-
 class UserStatistic
   def initialize(user)
     @user = user

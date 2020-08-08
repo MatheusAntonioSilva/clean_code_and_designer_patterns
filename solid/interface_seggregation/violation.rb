@@ -1,5 +1,3 @@
-# Violation of the Interface Segregation Principle in Ruby
-
 class CoffeeMachineInterface
   def select_drink_type
     # select drink type logic

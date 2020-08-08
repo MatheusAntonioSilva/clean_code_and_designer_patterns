@@ -1,5 +1,3 @@
-# Violation of the Dependency Inversion Principle in Ruby
-
 class Printer
   def initialize(data)
     @data = data

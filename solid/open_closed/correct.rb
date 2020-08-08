@@ -1,5 +1,3 @@
-# Correct use of the Open-Closed Principle in Ruby
-
 class Logger
   def initialize(formatter: DateDetailsFormatter.new, sender: LogWriter.new)
     @formatter = formatter

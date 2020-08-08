@@ -1,5 +1,3 @@
-# Violation of the Open-Closed Principle in Ruby
-
 class Logger
   def initialize(format, delivery)
     @format = format

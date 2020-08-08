@@ -1,5 +1,3 @@
-# Violation of the Single Responsibility Principle in Ruby
-
 class FinancialReportMailer
   def initialize(transactions, account)
     @transactions = transactions

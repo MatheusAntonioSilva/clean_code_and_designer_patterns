@@ -1,5 +1,3 @@
-# Correct use of the Single Responsibility Principle in Ruby
-
 class FinancialReportMailer
   def initialize(report, account)
     @report = report
