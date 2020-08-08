@@ -18,7 +18,8 @@
 >> I - Interface Segregation Principle (Princípio da Segregação de Interfaces)
 >> D - Dependency Inversion Principle (Princípio da Inversão de Dependências)
 
-- Beleza agora vamos falar de código:
+- Agora vamos de código:
+
   * Single Responsibility Principle
     * Violação do príncipio:
       - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/solid/simple_responsibility/correct.rb
@@ -62,8 +63,6 @@
     * Maneira correta:
       - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/solid/dependency_inversion/correct.rb
 
-    - Explicações dentro do código para facilitar compreensão.
-
 ## Padrões de Projeto
 
 - Vamos agora ver a parte de **Design Patterns** no português padrões de projetos. Padrões esses criados para auxilar desenvolvedores com formas de resolver problemas em desenvolvimento de forma semelhante.
@@ -73,11 +72,14 @@
 - Agora vamos de código:
 
   - Behavioral Patterns:
-    - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/patterns/behavioral/template_method.rb
+    - **Template Method**:
+      - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/patterns/behavioral/template_method.rb
 
   - Creational Patterns:
-    - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/patterns/creational/factory_method.rb
+    - **Factory Method**:
+      - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/patterns/creational/factory_method.rb
 
   - Structural Patterns:
-    - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/patterns/structural/decorator.rb
+    - **Decorator Method**:
+      - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/patterns/structural/decorator.rb
 
