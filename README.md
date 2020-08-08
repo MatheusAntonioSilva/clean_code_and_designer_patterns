@@ -76,14 +76,18 @@
   - Behavioral Patterns:
     - **Template Method**:
       - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/patterns/behavioral/template_method.rb
+      - Nesse exmplo de **Template Method** vemos que as classes filha seguem o mesmo padrão da classe pai, sendo assim aplicamos este **pattern** pois toda classe filha terá mesmo comportamento da classe Pai para funcionar.
 
   - Creational Patterns:
     - **Factory Method**:
       - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/patterns/creational/factory_method.rb
+      - Pattern este muito similar ao pattern **Template Method** porém esté é mais usado para criação de instacias de objetos. No exemplo do código acima vemos a simuliaridade com o a idéia demonstrada no **Template Method** porém aqui temos a criação de novas instancias dependendo do estilido de musica e criação de novas bandas.
 
   - Structural Patterns:
     - **Decorator Method**:
       - https://github.com/MatheusAntonioSilva/clean_code_and_designer_patterns/blob/master/patterns/structural/decorator.rb
+      - Aqui tenho a aplicação de método decorator, no ponto de que pego o objeto da classe **Burguer** e o decoro com uma outra classe sendo **LargeBurger**, nesse exemplo mostro que ainda posso decorar a classe também **LargeBurger** adicionando mais um docorador a **LargeBurger**.
+      - Idéia desse código é basicamente a seguinte. Eu tenho lanche, o embalo em uma embalagem grade, porém preciso de uma embalagem ainda maior. Asim usando o decorator consigo resolver este problema.
 
 ## Referências
 
@@ -91,3 +95,4 @@
 - https://refactoring.guru/pt-br/design-patterns/template-method/ruby/example
 - http://lccezinha.github.io/ruby/design-patterns/2015/04/09/factory-e-abstract-factory-em-ruby.html
 - https://nandovieira.com.br/ruby-object-model-singleton-class
+- https://refactoring.guru/pt-br/design-patterns/decorator/ruby/example
